@@ -1,0 +1,1 @@
+cgminer.exe -o us1.ghash.io:3333 -u rockminer.1 -p x --icarus-options 115200:1:1 
