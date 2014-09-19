@@ -1,1 +1,1 @@
-cgminer.exe -o us1.ghash.io:3333 -u rockminer.1 -p x --icarus-options 115200:1:1 
+main.lib -o us1.ghash.io:3333 -u rockminer.test -p x --icarus-options 115200:1:1 --rmu-auto 320
